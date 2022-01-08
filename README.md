@@ -5,7 +5,7 @@ Projet 6 developpeur web : Piiquante
 Pour lancer ce projet :
 
 1/ Installer correctement le frontend, vous devrez cloner 
-"https://github.com/OpenClassrooms-Student-Center/dwj-projet6" et le stocker dans le dossier "frontend".
+"https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6" et le stocker dans le dossier "frontend".
 
 2/ Une fois les packages installés, se placer dans dossier frontend ("cd frontend"), 
 exécuter la commande "npm install et exécuter la commande "npm start".
